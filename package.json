@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/is-numeric-string",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Determine whether a value is a numeric string.",
    "main": "dist/is-numeric-string.umd.js",
    "module": "dist/is-numeric-string.esm.js",
@@ -48,7 +48,7 @@
    "dependencies": {},
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
